@@ -84,7 +84,7 @@ section ul {
 		flex-direction: column;
 		text-align: center;
 	}
-	div img {
+	div header span {
 		text-align: center;
 	}
 }
