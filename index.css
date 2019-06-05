@@ -83,5 +83,6 @@ section ul {
 	div header div {
 		flex-direction: column;
 		text-align: center;
+		margin: 0px;
 	}
 }
