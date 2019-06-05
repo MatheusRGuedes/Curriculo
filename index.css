@@ -89,6 +89,8 @@ section ul {
 		margin-bottom: 10px;
 	}
 	div header div div {
+		margin: 0px;
+		align-items: center;
 		justify-content: center;
 	}
 }
