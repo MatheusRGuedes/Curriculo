@@ -88,4 +88,7 @@ section ul {
 		text-align: center;
 		margin-bottom: 10px;
 	}
+	div header div div {
+		justify-content: center;
+	}
 }
