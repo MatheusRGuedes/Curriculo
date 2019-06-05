@@ -76,7 +76,7 @@ section ul {
 	list-style-type: square;
 	color: #8c8c8c;
 }
-@media screen and (max-width: 850px){
+@media screen and (max-width: 920px){
 	#mainContent {
 		width: 85%;
 	}
