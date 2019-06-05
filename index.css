@@ -90,6 +90,7 @@ section ul {
 	}
 	div header div div {
 		margin: 0px;
+		display: flex;
 		align-items: center;
 		justify-content: center;
 	}
