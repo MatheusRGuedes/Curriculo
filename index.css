@@ -92,4 +92,7 @@ section ul {
 		margin: 0 auto;
 		display: flex;
 	}
+	header span img {
+		transform: rotate(90deg);
+	}
 }
