@@ -45,7 +45,7 @@ div header div div #unique {
 div img {
 	width: 150px;
 	height: 150px;
-        transform: rotate(90deg);
+        /*transform: rotate(90deg);*/
 	border: 2px solid white;
 	border-radius: 8px;
 }
@@ -92,7 +92,7 @@ section ul {
 		margin: 0 auto;
 		display: flex;
 	}
-	header span img {
+	/*header span img {
 		transform: rotate(90deg);
-	}
+	}*/
 }
